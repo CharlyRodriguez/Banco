@@ -19,7 +19,7 @@ public class App
 		Banco b1 = new Banco();
 		Calculadora calc = new Calculadora();
 		System.out.println("-----------------------------------");
-		String calculo =calc.division(0,0);
+		String calculo =calc.division(15,3);
 		System.out.println(calculo);
 		System.out.println("-----------------------------------");
 		
